@@ -1,6 +1,6 @@
-# Methane-plume-detection-from-images
+# Methane-plume-detection-from-satellite-images
 
-The goal of this project is to implement a classifier that predicts whether an image contains a methane plume or not. The project was implemented based on the course on AI for good in association with ESSEC-CentraleSupélec and QuantumBlack McKinsey, France.
+The goal of this project is to implement a classifier that predicts whether an image contains a methane plume or not. The final deliverable also included a web application mockup which displays the classification result when an user uploads an image. The project was implemented based on the course on AI for good in association with ESSEC-CentraleSupélec and QuantumBlack McKinsey, France.
 # Names of the students working on the project:
 
 1. Jyotishka Das(jyotishka.das@essec.edu)
